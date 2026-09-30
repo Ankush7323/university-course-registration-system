@@ -139,9 +139,3 @@ My individual contribution included:
 - Project report Sections 6–8
 - Final project compilation
 
-## Author
-
-**Suryanshu Bisram**
-
-Computer Science Student  
-University of Mauritius
